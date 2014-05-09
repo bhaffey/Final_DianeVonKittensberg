@@ -1,0 +1,242 @@
+
+
+body 
+{
+	background-color: #85dd8b; 
+	min-width: 1180px;
+	margin: 0;
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", 
+	             "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
+#content {
+	background-color:white;
+}
+
+
+#wrapper 
+{
+	margin: 0 auto;
+}
+
+#content1
+{
+	width: 100%;
+	height: 100%;
+}
+
+.floatleft
+{
+	float: left;
+	position: absolute;
+	margin: 10px;
+}
+
+.floatright
+{
+	float: right;
+	position: relative;
+	margin-top: -145px;
+	margin-right: 10px;
+}
+
+img 
+{
+	margin-top: 0;
+	margin: 0px;
+	padding: 0px;
+	display: inline-block;
+}
+
+#dvklogo {
+	padding-top: 30px;
+}
+
+#navbar
+{
+	
+	margin: 0;
+	text-transform:uppercase;
+ 	font-size:16px;
+	word-spacing: 3px;
+	word-spacing: 2px;
+   	list-style: none;
+   	padding-top: 15px;
+
+
+}
+
+#navbar ul
+{
+margin:0;
+padding:0;
+list-style: none;
+display:inline;
+
+}
+
+#navbar li {
+
+	margin-right: auto;
+ 	margin-left: auto;
+   		display:inline;
+   		height:50px;
+   		vertical-align: top;
+   		
+}
+
+#navbar li a {
+
+   	padding: 10px;
+	margin-left: 8px;
+	margin-right: 8px;
+	margin-top: 100px;
+ 	text-decoration: none;
+ 	color: #00000;
+}
+#navbar li a:hover{
+ 	background-color: #85dd8b;
+	padding-top: 8px;
+	padding-bottom: 8px;
+
+ }
+ #navbar li a:visited{
+	padding-top: 8px;
+	padding-bottom: 8px;
+	color:  black;
+ }
+  #navbar li a:link{
+	padding-top: 8px;
+	padding-bottom: 8px;
+	color: black;
+ }
+
+ #navbar li .logo{
+	padding-top: 48px;
+	padding-bottom: 8px;
+	color: black;
+ }
+
+#navbehind
+{
+	height: 32px;
+	width: 100%;
+	display: inline-block;
+	background-color: #C8C8C8;
+}
+
+#lowernavbar
+{
+	margin: 0;
+	word-spacing: 3px;
+}
+
+#lowernavbar li {
+	display: inline;
+	list-style-type: none;
+	padding-right: 20px;   		
+}
+
+
+#navbar
+{
+	
+	margin: 0;
+	text-transform:uppercase;
+ 	font-size:16px;
+	word-spacing: 3px;
+	word-spacing: 2px;
+   	list-style: none;
+   	padding-top: 15px;
+
+
+}
+
+#navbar_user ul
+{
+margin:0;
+padding:0;
+list-style: none;
+text-transform: uppercase;
+
+}
+
+#navbar_user li {
+
+	margin-right: auto;
+ 	margin-left: auto;
+   		height:50px;
+   		vertical-align: top;
+   		
+}
+
+#navbar_user li a {
+
+   	padding: 10px;
+	margin-left: 8px;
+	margin-right: 8px;
+	margin-top: 100px;
+ 	text-decoration: none;
+ 	color: #00000;
+}
+#navbar_user li a:hover{
+ 	background-color: #2b4436;
+ 	color: white;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+
+
+
+
+#footer {
+	clear: both;
+	margin-top: 20px;
+}
+
+span 
+{
+	font-size: 48px;
+	font-family: Helvetica; 
+
+}
+
+#photo
+{
+	background-image: url(images/stockphoto.jpg);
+	height: 600px;
+	background-repeat: no-repeat;
+margin: 0 auto;
+}
+
+
+#cattables
+{
+	display: block;
+	colspan: 2;
+}
+
+
+a
+{
+	text-decoration: none;
+	color: black;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", 
+	             "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
