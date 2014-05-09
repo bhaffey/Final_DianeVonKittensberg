@@ -35,7 +35,7 @@ function do_html_header($title = '') {
              if(!(isset($_SESSION['admin_user'])||isset($_SESSION['worker_user'])||isset($_SESSION['customer_user']))) {
                 echo "<a href=\"login.php\"><img src=\"images/signin.jpg\"></img></a>";
              } 
-             else if (isset($_SESSION['logout']))&&($_SESSION['logout'] == 1)) {
+             else if (isset($_SESSION['logout']) && ($_SESSION['logout'] == 1)) {
                 echo "<font size=\"4\" style=\"text-transform:capitalize;\">Goodbye <b>".$_SESSION['username']."</b></font>";
              }
              else {
